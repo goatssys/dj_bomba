@@ -32,7 +32,7 @@ async function updateHtmlFile(url) {
 <body>
     <div class="container">
         <h1>Redirecionando...</h1>
-        <p>Você será redirecionado para: <br><strong>${cleanUrl}</strong></p>
+        <p>Você será redirecionado para:<br><strong>${cleanUrl}</strong></p>
     </div>
 </body>
 </html>`;
